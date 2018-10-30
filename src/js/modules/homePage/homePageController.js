@@ -19,7 +19,7 @@
             }, {
                 'id': 1,
                 'snippet': {
-                    'title': 'Film & Animation'
+                    'title': 'Film & Entertainment'
                 }
             }, {
                 'id': 17,
@@ -32,19 +32,19 @@
                     'title': 'Technology'
                 }
             }, {
-                'id': 19,
+                'id': 2,
                 'snippet': {
-                    'title': 'Travel & Events'
+                    'title': 'Vlogs'
                 }
             }, {
-                'id': 27,
-                'snippet': {
-                    'title': 'Education'
-                }
-            }, {
-                'id': 22,
+                'id': 15,
                 'snippet': {
                     'title': 'People & Blogs'
+                }
+            }, {
+                'id': 20,
+                'snippet': {
+                    'title': 'Video Games'
                 }
             }]
         }
